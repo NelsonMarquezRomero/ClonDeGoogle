@@ -1,4 +1,4 @@
-# ClonDeGoogle
+# GoogleClon
 
 GithubPage: https://nelsonmarquezromero.github.io/ClonDeGoogle/
 

@@ -7,4 +7,6 @@ GithubPage: https://nelsonmarquezromero.github.io/ClonDeGoogle/
 PARA VISUALIZAR EL PROYECTO, HACER CLICK DERECHO EN EL ENLACE ANTERIOR Y SELECCIONAR "ABRIR ENLACE EN UNA NUEVA PESTAÑA".
 
 
+![image](https://user-images.githubusercontent.com/68557880/123717912-369c5680-d854-11eb-99ed-78e99863baaa.png)
+
 

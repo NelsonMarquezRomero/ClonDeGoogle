@@ -2,7 +2,7 @@
 
 GithubPage: https://nelsonmarquezromero.github.io/GoogleClon/
 
-Éste es un proyecto en el que empleo mis habilidades adquiridas en los cursos de Platzi para crear la Landing Page estática desktop-first de Google, empleando conocimientos de HTML y CSS.
+Este es un proyecto en el que empleo mis habilidades adquiridas en los cursos de Platzi para crear la página inicial estática desktop-first de Google, empleando conocimientos de HTML y CSS.
 
 PARA VISUALIZAR EL PROYECTO, HACER CLICK DERECHO EN EL ENLACE  DE "GITHUBPAGE" DEL INICIO DE ESTE ARCHIVO Y SELECCIONAR "ABRIR ENLACE EN UNA NUEVA PESTAÑA".
 
